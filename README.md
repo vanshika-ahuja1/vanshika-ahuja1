@@ -16,7 +16,7 @@ I am a passionate **Data Analyst** with a strong foundation in **statistical ana
 - **Data Visualization**:  Matplotlib, Seaborn
 - **Web Scraping**: BeautifulSoup, Selenium, Scrappy, MechanicalSoup
 - **Databases**: MySQL
-- **Other Tools**: Jupyter Notebooks, Git
+- **Other Tools**: Jupyter Notebooks, VSCode,PyCharm,Git
 
 ## 📈 Featured Projects
 
