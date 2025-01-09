@@ -37,7 +37,7 @@ I analyzed Airbnb listing data to uncover trends in pricing, location, and custo
 
 ## 💬 Let's Connect
 
-- [Email](mailto:vanshika.ahuja54@gmail.com)
+- [Email](mailto:vanshikaahuja54@gmail.com)
 
 ---
 
