@@ -41,7 +41,7 @@ This project involved analyzing employee performance metrics to identify pattern
 ### 3. [*Airbnb Data Analysis*](https://github.com/vanshika-ahuja1/Airbnb_Data_Analysis)
 I analyzed Airbnb listing data to uncover trends in pricing, location, and customer ratings:
 - Explored how factors like location, amenities, and ratings influenced the price of listings.
-- Visualized insights using *Tableau* to help Airbnb hosts optimize their listings.
+- Visualized insights using *Seaborn* to help Airbnb hosts optimize their listings.
 
 ## 💬 Let's Connect
 
