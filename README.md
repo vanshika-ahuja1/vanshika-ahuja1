@@ -5,9 +5,9 @@ I am a passionate *Data Analyst* with a strong foundation in **statistical analy
 ## 🚀 About Me
 
 - 🔢 *Statistical Analysis*: Proficient in applying statistical methods to uncover trends and insights in data, helping businesses make informed decisions.
-- 📊 *Data Visualization*: Skilled in creating compelling and easy-to-understand visualizations using tools like **Seaborn, **Matplotlib*.
+- 📊 *Data Visualization*: Skilled in creating compelling and easy-to-understand visualizations using tools like **Seaborn**, **Matplotlib**.
 - 💻 *Data Cleaning & Transformation*: Experienced in cleaning and transforming raw data into structured formats, making it ready for analysis.
-- 🌍 *Web Scraping*: I use web scraping tools like **BeautifulSoup* and *Selenium* to gather data from the web, which I clean and analyze to extract valuable insights.
+- 🌍 *Web Scraping*: I use web scraping tools like **BeautifulSoup** and **Selenium** to gather data from the web, which I clean and analyze to extract valuable insights.
 
 ## 🛠 Technologies & Tools
 
