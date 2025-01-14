@@ -34,7 +34,7 @@ I analyzed Netflix's content and user data to explore trends in movie ratings, g
 - Explored correlations between ratings and genres to understand what factors contribute to the success of shows.
 - Cleaned and visualized data using *Matplotlib* and *Seaborn* to present insights to decision-makers.
 
-### 2. [*Scrape and Analyse data from Flipkart*]([https://github.com/vanshika-ahuja1/Employee_Performance_Data_Analysis](https://github.com/vanshika-ahuja1/scrape-and-analyze-laptops_from_flipkart))
+### 2. [*Scrape and Analyse data from Flipkart*]((https://github.com/vanshika-ahuja1/scrape-and-analyze-laptops_from_flipkart))
 This project involves **web scraping** laptop data from **Flipkart** and performing **Exploratory Data Analysis (EDA)** to gain insights into laptop prices, ratings, and other specifications. The data is cleaned and analyzed to explore trends and relationships within the data.
 - **Technologies Used**: Python, BeautifulSoup, Selenium, Pandas, Matplotlib, Seaborn
 - **What you’ll learn**: Web scraping techniques, data cleaning, data visualization, and EDA.
