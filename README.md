@@ -6,24 +6,19 @@ I am a passionate *Data Analyst* with a strong foundation in **statistical analy
 ## 📜 Certificates
 
 ### 🎓 Career Essentials in Data Analysis by Microsoft and LinkedIn
-[![Career Essentials in Data Analysis](https://drive.google.com/file/d/1NEHoCXONcdtCrZ6N5XDbyrypOB40EdB3/view?usp=drivesdk)
-  
+[![Career Essentials in Data Analysis](https://drive.google.com/uc?export=view&id=1NEHoCXONcdtCrZ6N5XDbyrypOB40EdB3)](https://drive.google.com/file/d/1NEHoCXONcdtCrZ6N5XDbyrypOB40EdB3/view?usp=drivesdk)
 - Provided by Microsoft and LinkedIn
 
 ### 🎓 SQL and Relational Databases 101 (DB0101EN, provided by IBM)
-[![SQL and Relational Databases 101](https://drive.google.com/file/d/1NAduGYzhUc3-VvCCPOpWG_vnOs9h6n8T/view?usp=drivesdk)
-
+[![SQL and Relational Databases 101](https://drive.google.com/uc?export=view&id=1NAduGYzhUc3-VvCCPOpWG_vnOs9h6n8T)](https://drive.google.com/file/d/1NAduGYzhUc3-VvCCPOpWG_vnOs9h6n8T/view?usp=drivesdk)
 - Provided by IBM
 
 ### 🎓 Python 101 for Data Science (PY0101EN, provided by IBM)
-[![Python 101 for Data Science](https://drive.google.com/file/d/1NE73vsKSWHnGRo0rQP_Qml7izLzODc6x/view?usp=drivesdk)
-
+[![Python 101 for Data Science](https://drive.google.com/uc?export=view&id=1NE73vsKSWHnGRo0rQP_Qml7izLzODc6x)](https://drive.google.com/file/d/1NE73vsKSWHnGRo0rQP_Qml7izLzODc6x/view?usp=drivesdk)
 - Provided by IBM
 
 ### 🎓 Data Analytics Essentials (Cisco Networking Academy)
-[![Data Analytics Essentials](https://drive.google.com/file/d/1OIWk2jRTUlqk2CoqJBUc1eeHjdzvCGVs/view?usp=drivesdk)
-
-- Offered by Networking Academy through the Cisco Networking Academy program.
+[![Data Analytics Essentials](https://drive.google.com/uc?export=view&id=1OIWk2jRTUlqk2CoqJBUc1eeHjdzvCGVs)](https://drive.google.com/file/d/1OIWk2jRTUlqk2CoqJBUc1eeHjdzvCGVs/view?usp=dr
 
 
 ## 🚀 About Me
