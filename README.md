@@ -3,6 +3,29 @@
 I am a passionate *Data Analyst* with a strong foundation in **statistical analysis**, **data visualization**, and **data-driven decision-making**. I specialize in turning complex data into actionable insights that drive business decisions and solve real-world problems.
 - 💬 Ask me about **Python**, **Data Science**, **Web Scraping**, or anything related to **tech**.
 
+## 📜 Certificates
+
+### 🎓 Career Essentials in Data Analysis by Microsoft and LinkedIn
+[![Career Essentials in Data Analysis](https://drive.google.com/file/d/1NEHoCXONcdtCrZ6N5XDbyrypOB40EdB3/view?usp=drivesdk)
+  
+- Provided by Microsoft and LinkedIn
+
+### 🎓 SQL and Relational Databases 101 (DB0101EN, provided by IBM)
+[![SQL and Relational Databases 101](https://drive.google.com/file/d/1NAduGYzhUc3-VvCCPOpWG_vnOs9h6n8T/view?usp=drivesdk)
+
+- Provided by IBM
+
+### 🎓 Python 101 for Data Science (PY0101EN, provided by IBM)
+[![Python 101 for Data Science](https://drive.google.com/file/d/1NE73vsKSWHnGRo0rQP_Qml7izLzODc6x/view?usp=drivesdk)
+
+- Provided by IBM
+
+### 🎓 Data Analytics Essentials (Cisco Networking Academy)
+[![Data Analytics Essentials](https://drive.google.com/file/d/1OIWk2jRTUlqk2CoqJBUc1eeHjdzvCGVs/view?usp=drivesdk)
+
+- Offered by Networking Academy through the Cisco Networking Academy program.
+
+
 ## 🚀 About Me
 
 - 🔢 *Statistical Analysis*: Proficient in applying statistical methods to uncover trends and insights in data, helping businesses make informed decisions.
