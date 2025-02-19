@@ -18,7 +18,8 @@ I am a passionate *Data Analyst* with a strong foundation in **statistical analy
 - Provided by IBM
 
 ### 🎓 Data Analytics Essentials (Cisco Networking Academy)
-[![Data Analytics Essentials](https://drive.google.com/uc?export=view&id=1OIWk2jRTUlqk2CoqJBUc1eeHjdzvCGVs)](https://drive.google.com/file/d/1OIWk2jRTUlqk2CoqJBUc1eeHjdzvCGVs/view?usp=dr
+[![Data Analytics Essentials](https://drive.google.com/uc?export=view&id=1OIWk2jRTUlqk2CoqJBUc1eeHjdzvCGVs)](https://drive.google.com/file/d/1OIWk2jRTUlqk2CoqJBUc1eeHjdzvCGVs/view?usp=drivesdk)
+- Offered by Networking Academy through the Cisco Networking Academy program.
 
 
 ## 🚀 About Me
